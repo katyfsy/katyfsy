@@ -1,6 +1,6 @@
 <p align="center"><img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="175"/></p>
 <p align="center">
-<a href="https://www.linkedin.com/in/katy-feng-718332133/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://www.linkedin.com/in/katy-feng/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 <p id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=katyfsy&style=flat-square&color=blue" alt=""/>
@@ -16,7 +16,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring new tech stacks.
 - ⚡ In my free time I read tech articles and nap with my cat.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-katyfsy-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/katy-feng-718332133/)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-katyfsy-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/katy-feng/)
 
 ---
 
