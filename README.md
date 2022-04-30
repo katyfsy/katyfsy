@@ -56,6 +56,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=katyfsy&theme=blue-green&background=000000)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-
-
 <!--END_SECTION:waka-->
