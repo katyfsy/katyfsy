@@ -56,6 +56,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=katyfsy&theme=blue-green&background=000000)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
@@ -87,11 +89,11 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               21 hrs 48 mins      ██████████████████░░░░░░░   72.74% 
-CSS                      4 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.41% 
-Markdown                 1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.59% 
-JSON                     55 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.09% 
-HTML                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.55%
+JavaScript               19 hrs 50 mins      ██████████████████░░░░░░░   71.94% 
+CSS                      4 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.75% 
+Markdown                 1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.99% 
+JSON                     55 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.35% 
+HTML                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.69%
 
 ```
 
@@ -104,5 +106,5 @@ JavaScript               3 repos             ███████████�
 
 
 
- Last Updated on 06/05/2022 18:51:05 UTC
+ Last Updated on 07/05/2022 18:48:50 UTC
 <!--END_SECTION:waka-->
