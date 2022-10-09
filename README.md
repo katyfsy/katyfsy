@@ -78,4 +78,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=katyfsy&theme=blue-green&background=000000)](https://git.io/streak-stats)
+[![Katy's GitHub stats](https://github-readme-stats.vercel.app/api?username=katyfsy&&hide=stars,issues&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/katyfsy/github-readme-stats)
