@@ -14,7 +14,6 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Learning C/C++ and system programming.
 - ⚡ In my free time I read tech articles and nap with my cat.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-katyfsy-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/katy-feng/)
 
@@ -31,9 +30,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" **alt="c" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" **alt="cplusplus" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" **alt="python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="java" **alt="java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="spring" **alt="spring" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" **alt="python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="r" **alt="r" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -74,8 +75,3 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" title="yarn" **alt="yarn" width="40" height="40"/>&nbsp;
 </p>
 
-
----
-
-### 🔥 &nbsp; My Stats :
-[![Katy's GitHub stats](https://github-readme-stats.vercel.app/api?username=katyfsy&&hide=stars,issues&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/katyfsy/github-readme-stats)
